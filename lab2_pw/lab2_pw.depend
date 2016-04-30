@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462010553 source:c:\pw_labs\lab2_pw\main.cpp
+	<tchar.h>
+	<stdio.h>
+	<windows.h>
+
+1462010284 source:c:\pw_labs\lab2_pw\resource.rc
+

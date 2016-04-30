@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462016413 source:c:\pw_labs\lab3_pw\main.cpp
+	<tchar.h>
+	<stdio.h>
+	<windows.h>
+	<gdiplus.h>
+	<time.h>
+
